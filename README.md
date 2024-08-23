@@ -44,11 +44,11 @@ This is very useful admin dashboard where I putted all needed information about 
   </a>
 
   <a href="https://www.w3schools.com/css/" style="margin-right: 15px;">
-      <img src="https://static-00.iconduck.com/assets.00/file-type-css-icon-1806x2048-r5fwjl3p.png" alt="Logo" width="50">
+      <img src="https://dev.iamvdo.me/css3.png" alt="Logo" width="50">
   </a>
 
   <a href="https://www.w3schools.com/js/" style="margin-right: 15px;">
-      <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" alt="Logo" width="50">
+      <img src="https://raw.githubusercontent.com/voodootikigod/logo.js/master/js.png" alt="Logo" width="50">
   </a>
 
   <a href="https://nodejs.org/en" style="margin-right: 15px;">
